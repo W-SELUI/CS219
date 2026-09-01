@@ -41,6 +41,8 @@ References
 
 
 
+---
+
 2. Proposed Online Business
 
 Mere could operate her online marketplace using **SaaS applications accessed through the internet**, allowing the business to use cloud-hosted software without managing the underlying servers and infrastructure [1].
