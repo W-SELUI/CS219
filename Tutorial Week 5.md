@@ -1,6 +1,6 @@
+
 ---
-Tutorial Week 5
----
+
 
 **1. Logical Network Perimeter** Establishes a _virtual_ network boundary that isolates a group of related, physically distributed cloud IT resources from the rest of the network — without physically separating them. It's used to isolate resources from non-authorized users, non-users, and even other cloud consumers, and to control bandwidth allocated to the isolated resources. Boundary is shown using a dashed-line notation, and is usually enforced with a virtual firewall (filters traffic) and virtual network/VLAN (isolates the segment).
 
