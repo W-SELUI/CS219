@@ -1,0 +1,211 @@
+Algorithm,Structure,Trial,TimeMs,OperationCount
+Insertion Sort,ArrayList,1,14.8259,1334491
+Insertion Sort,ArrayList,2,6.9331,1255210
+Insertion Sort,ArrayList,3,10.2761,1301573
+Insertion Sort,ArrayList,4,8.0853,1339626
+Insertion Sort,ArrayList,5,5.1302,1295200
+Insertion Sort,ArrayList,6,4.6671,1256104
+Insertion Sort,ArrayList,7,4.8169,1302653
+Insertion Sort,ArrayList,8,5.0890,1251343
+Insertion Sort,ArrayList,9,4.5740,1270119
+Insertion Sort,ArrayList,10,4.8025,1314739
+Insertion Sort,ArrayList,11,4.9553,1286619
+Insertion Sort,ArrayList,12,4.9124,1327482
+Insertion Sort,ArrayList,13,4.8687,1303181
+Insertion Sort,ArrayList,14,4.8408,1311455
+Insertion Sort,ArrayList,15,4.8416,1322038
+Insertion Sort,ArrayList,16,5.7491,1330223
+Insertion Sort,ArrayList,17,4.8332,1310678
+Insertion Sort,ArrayList,18,14.3010,1276578
+Insertion Sort,ArrayList,19,4.9497,1307124
+Insertion Sort,ArrayList,20,5.6241,1326637
+Insertion Sort,ArrayList,21,4.9447,1342690
+Insertion Sort,ArrayList,22,5.0145,1303618
+Insertion Sort,ArrayList,23,4.7759,1293154
+Insertion Sort,ArrayList,24,4.7751,1279907
+Insertion Sort,ArrayList,25,6.2029,1324820
+Insertion Sort,ArrayList,26,4.5893,1264382
+Insertion Sort,ArrayList,27,4.8381,1327536
+Insertion Sort,ArrayList,28,4.9680,1302277
+Insertion Sort,ArrayList,29,4.7014,1289682
+Insertion Sort,ArrayList,30,4.7582,1306376
+Insertion Sort,LinkedList,1,2772.5216,1293651
+Insertion Sort,LinkedList,2,2611.6766,1278995
+Insertion Sort,LinkedList,3,2660.2733,1304027
+Insertion Sort,LinkedList,4,2602.3330,1251032
+Insertion Sort,LinkedList,5,2733.0554,1298002
+Insertion Sort,LinkedList,6,2622.0726,1294990
+Insertion Sort,LinkedList,7,2698.7041,1302987
+Insertion Sort,LinkedList,8,2627.4738,1291430
+Insertion Sort,LinkedList,9,2680.9738,1308863
+Insertion Sort,LinkedList,10,2685.8349,1307668
+Insertion Sort,LinkedList,11,2675.6986,1317739
+Insertion Sort,LinkedList,12,2690.2594,1317866
+Insertion Sort,LinkedList,13,2677.8505,1309162
+Insertion Sort,LinkedList,14,2643.5454,1299264
+Insertion Sort,LinkedList,15,2743.9985,1349904
+Insertion Sort,LinkedList,16,2641.1345,1304033
+Insertion Sort,LinkedList,17,2759.3292,1350246
+Insertion Sort,LinkedList,18,2680.9506,1312707
+Insertion Sort,LinkedList,19,2676.5211,1333100
+Insertion Sort,LinkedList,20,2598.7455,1286976
+Insertion Sort,LinkedList,21,2664.1272,1299581
+Insertion Sort,LinkedList,22,2691.3411,1317947
+Insertion Sort,LinkedList,23,2626.6129,1281735
+Insertion Sort,LinkedList,24,2636.5404,1301311
+Insertion Sort,LinkedList,25,2701.4606,1316183
+Insertion Sort,LinkedList,26,2757.0152,1358705
+Insertion Sort,LinkedList,27,2644.5798,1312644
+Insertion Sort,LinkedList,28,2679.6612,1321389
+Insertion Sort,LinkedList,29,2664.2398,1311707
+Insertion Sort,LinkedList,30,2640.9437,1309033
+Bubble Sort,ArrayList,1,30.4284,2085730
+Bubble Sort,ArrayList,2,28.4756,2099061
+Bubble Sort,ArrayList,3,22.9672,2084769
+Bubble Sort,ArrayList,4,23.8659,2074936
+Bubble Sort,ArrayList,5,24.2545,2106519
+Bubble Sort,ArrayList,6,22.9771,2093150
+Bubble Sort,ArrayList,7,23.5060,2086318
+Bubble Sort,ArrayList,8,24.3160,2064435
+Bubble Sort,ArrayList,9,21.4178,2100708
+Bubble Sort,ArrayList,10,20.5932,2079470
+Bubble Sort,ArrayList,11,21.1669,2081904
+Bubble Sort,ArrayList,12,21.3420,2092363
+Bubble Sort,ArrayList,13,20.0819,2084887
+Bubble Sort,ArrayList,14,21.1338,2098109
+Bubble Sort,ArrayList,15,21.6266,2088979
+Bubble Sort,ArrayList,16,21.3767,2075335
+Bubble Sort,ArrayList,17,20.5371,2097670
+Bubble Sort,ArrayList,18,20.4188,2106337
+Bubble Sort,ArrayList,19,22.8454,2081452
+Bubble Sort,ArrayList,20,20.5435,2082278
+Bubble Sort,ArrayList,21,21.3913,2077753
+Bubble Sort,ArrayList,22,21.5888,2067218
+Bubble Sort,ArrayList,23,20.4779,2086049
+Bubble Sort,ArrayList,24,28.0152,2110287
+Bubble Sort,ArrayList,25,31.2042,2091865
+Bubble Sort,ArrayList,26,26.4848,2076115
+Bubble Sort,ArrayList,27,20.9828,2091928
+Bubble Sort,ArrayList,28,20.4952,2076215
+Bubble Sort,ArrayList,29,26.7466,2092139
+Bubble Sort,ArrayList,30,20.1904,2095281
+Bubble Sort,LinkedList,1,6727.7372,2063660
+Bubble Sort,LinkedList,2,6928.6604,2089552
+Bubble Sort,LinkedList,3,6795.6553,2087221
+Bubble Sort,LinkedList,4,6885.1422,2092604
+Bubble Sort,LinkedList,5,6899.4472,2099973
+Bubble Sort,LinkedList,6,6776.3999,2081725
+Bubble Sort,LinkedList,7,6801.2640,2087838
+Bubble Sort,LinkedList,8,6691.0898,2068743
+Bubble Sort,LinkedList,9,6746.1144,2076054
+Bubble Sort,LinkedList,10,6793.3668,2081531
+Bubble Sort,LinkedList,11,6866.3341,2084631
+Bubble Sort,LinkedList,12,6753.9003,2074419
+Bubble Sort,LinkedList,13,6826.6199,2091033
+Bubble Sort,LinkedList,14,6869.4326,2103616
+Bubble Sort,LinkedList,15,6821.8234,2089478
+Bubble Sort,LinkedList,16,6756.2612,2076902
+Bubble Sort,LinkedList,17,6713.3653,2072918
+Bubble Sort,LinkedList,18,6779.4228,2085644
+Bubble Sort,LinkedList,19,6686.0772,2063407
+Bubble Sort,LinkedList,20,6738.1215,2085960
+Bubble Sort,LinkedList,21,6696.4590,2067430
+Bubble Sort,LinkedList,22,6992.5687,2108154
+Bubble Sort,LinkedList,23,6790.3928,2094078
+Bubble Sort,LinkedList,24,6993.0472,2104931
+Bubble Sort,LinkedList,25,6861.4818,2092828
+Bubble Sort,LinkedList,26,6750.5284,2079132
+Bubble Sort,LinkedList,27,6826.0707,2092538
+Bubble Sort,LinkedList,28,6882.0923,2091683
+Bubble Sort,LinkedList,29,6918.1204,2087952
+Bubble Sort,LinkedList,30,6993.0774,2108721
+Merge Sort,ArrayList,1,1.3405,15423
+Merge Sort,ArrayList,2,1.8187,15350
+Merge Sort,ArrayList,3,1.8316,15400
+Merge Sort,ArrayList,4,1.8203,15485
+Merge Sort,ArrayList,5,1.7473,15409
+Merge Sort,ArrayList,6,2.1826,15438
+Merge Sort,ArrayList,7,1.7041,15439
+Merge Sort,ArrayList,8,1.7365,15405
+Merge Sort,ArrayList,9,1.7102,15392
+Merge Sort,ArrayList,10,1.8238,15458
+Merge Sort,ArrayList,11,1.7133,15468
+Merge Sort,ArrayList,12,1.2169,15423
+Merge Sort,ArrayList,13,0.8427,15425
+Merge Sort,ArrayList,14,0.8240,15385
+Merge Sort,ArrayList,15,1.0544,15472
+Merge Sort,ArrayList,16,0.8306,15421
+Merge Sort,ArrayList,17,0.9344,15423
+Merge Sort,ArrayList,18,0.8451,15405
+Merge Sort,ArrayList,19,0.8851,15454
+Merge Sort,ArrayList,20,0.8292,15465
+Merge Sort,ArrayList,21,0.8425,15413
+Merge Sort,ArrayList,22,0.8177,15406
+Merge Sort,ArrayList,23,0.8326,15391
+Merge Sort,ArrayList,24,0.8341,15447
+Merge Sort,ArrayList,25,0.8245,15476
+Merge Sort,ArrayList,26,0.8256,15343
+Merge Sort,ArrayList,27,0.8564,15384
+Merge Sort,ArrayList,28,0.8442,15416
+Merge Sort,ArrayList,29,0.8279,15388
+Merge Sort,ArrayList,30,0.8314,15395
+Merge Sort,LinkedList,1,47.6904,15422
+Merge Sort,LinkedList,2,45.8409,15454
+Merge Sort,LinkedList,3,45.2803,15393
+Merge Sort,LinkedList,4,41.7462,15445
+Merge Sort,LinkedList,5,41.7017,15373
+Merge Sort,LinkedList,6,43.2074,15387
+Merge Sort,LinkedList,7,41.3025,15396
+Merge Sort,LinkedList,8,41.4902,15438
+Merge Sort,LinkedList,9,41.1914,15419
+Merge Sort,LinkedList,10,42.3011,15403
+Merge Sort,LinkedList,11,42.4864,15418
+Merge Sort,LinkedList,12,41.9531,15454
+Merge Sort,LinkedList,13,41.8677,15442
+Merge Sort,LinkedList,14,41.4228,15392
+Merge Sort,LinkedList,15,41.8209,15422
+Merge Sort,LinkedList,16,41.5310,15381
+Merge Sort,LinkedList,17,41.5843,15381
+Merge Sort,LinkedList,18,40.9145,15394
+Merge Sort,LinkedList,19,41.1635,15422
+Merge Sort,LinkedList,20,42.5201,15415
+Merge Sort,LinkedList,21,41.8363,15403
+Merge Sort,LinkedList,22,41.9987,15391
+Merge Sort,LinkedList,23,42.8075,15404
+Merge Sort,LinkedList,24,41.4711,15435
+Merge Sort,LinkedList,25,41.6080,15444
+Merge Sort,LinkedList,26,41.0026,15376
+Merge Sort,LinkedList,27,43.6214,15426
+Merge Sort,LinkedList,28,43.0247,15436
+Merge Sort,LinkedList,29,41.2256,15481
+Merge Sort,LinkedList,30,41.4516,15457
+Built-in Sort (Collections.sort),ArrayList,1,2.5823,-1
+Built-in Sort (Collections.sort),ArrayList,2,2.6173,-1
+Built-in Sort (Collections.sort),ArrayList,3,1.7662,-1
+Built-in Sort (Collections.sort),ArrayList,4,1.0264,-1
+Built-in Sort (Collections.sort),ArrayList,5,0.9385,-1
+Built-in Sort (Collections.sort),ArrayList,6,1.0902,-1
+Built-in Sort (Collections.sort),ArrayList,7,1.3065,-1
+Built-in Sort (Collections.sort),ArrayList,8,1.5041,-1
+Built-in Sort (Collections.sort),ArrayList,9,1.4298,-1
+Built-in Sort (Collections.sort),ArrayList,10,1.3298,-1
+Built-in Sort (Collections.sort),ArrayList,11,1.1180,-1
+Built-in Sort (Collections.sort),ArrayList,12,0.9112,-1
+Built-in Sort (Collections.sort),ArrayList,13,0.8381,-1
+Built-in Sort (Collections.sort),ArrayList,14,1.2395,-1
+Built-in Sort (Collections.sort),ArrayList,15,3.2412,-1
+Built-in Sort (Collections.sort),ArrayList,16,1.4518,-1
+Built-in Sort (Collections.sort),ArrayList,17,3.8575,-1
+Built-in Sort (Collections.sort),ArrayList,18,1.1093,-1
+Built-in Sort (Collections.sort),ArrayList,19,1.0465,-1
+Built-in Sort (Collections.sort),ArrayList,20,1.0331,-1
+Built-in Sort (Collections.sort),ArrayList,21,1.0023,-1
+Built-in Sort (Collections.sort),ArrayList,22,1.0345,-1
+Built-in Sort (Collections.sort),ArrayList,23,0.8958,-1
+Built-in Sort (Collections.sort),ArrayList,24,1.1586,-1
+Built-in Sort (Collections.sort),ArrayList,25,1.2012,-1
+Built-in Sort (Collections.sort),ArrayList,26,0.9900,-1
+Built-in Sort (Collections.sort),ArrayList,27,0.9041,-1
+Built-in Sort (Collections.sort),ArrayList,28,1.1941,-1
+Built-in Sort (Collections.sort),ArrayList,29,1.2214,-1
+Built-in Sort (Collections.sort),ArrayList,30,0.9124,-1
